@@ -1,5 +1,3 @@
-# DIGITAL-EXPERIMENT01
-IDEAL SAMPLING
 # DC-EXPERIMENT1
 IDEAL SAMPLING
 EXPERIMENTAL-VERIFICATION-OF-VARIOUS-TYPES-OF-SAMPLING-TECHNIQUES
@@ -52,4 +50,3 @@ pass Butterworth filter and take necessary observation as mentioned below.
 
 ## RESULT 
 Thus the sapmpling and reconstruction of the given input signal is done using different types of sampling techniques was verified successfully.
-
